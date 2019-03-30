@@ -83,7 +83,7 @@ ECHO: >> %logfile%
 ECHO: Process Finished... >> %logfile%
 
 REM ** Exit cleanly.
-rem EXIT
+EXIT
 
 REM ** Additional Notes:
 REM ** If you ware just checking for mis-labeled languages, and then want to correct 
